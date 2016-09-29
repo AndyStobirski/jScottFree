@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="https://code.jquery.com/jquery-1.11.3.js" type="text/javascript"></script>
+    <script src="scottLoad.js" type="text/javascript"></script>
+    <script src="jQuery.jScottFree.js" type="text/javascript"> </script>
+    <link href="jquery.jScottFree.css" rel="stylesheet" type="text/css" />
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            var loadFiles =
+
+            [
+               { "file": "adv01.dat", "desc": "Adventure Land" }
+			   , { "file": "adv02.dat", "desc": "Pirate Adventure" }
+			   , { "file": "adv03.dat", "desc": "Secret Mission" }
+                , { "file": "adv04.dat", "desc": "Voodoo Castle" }
+                , { "file": "adv05.dat", "desc": "The Count" }
+                , { "file": "adv06.dat", "desc": "Strange Odyssey" }
+				, { "file": "adv07.dat", "desc": "Mystery Fun House" }
+                , { "file": "adv08.dat", "desc": "Pyramid of Doom" }				
+                , { "file": "adv09.dat", "desc": "Ghost Town" }
+                , { "file": "adv10.dat", "desc": "Savage Island Part 1" }
+                , { "file": "adv11.dat", "desc": "Savage Island Part 2" }
+                , { "file": "adv12.dat", "desc": "Golden Voyage" }
+                , { "file": "adv13.dat", "desc": "Sorcerer of Claymorgue Castle" }
+				, { "file": "adv14a.dat", "desc": "Return to Pirate's Island" }
+			];
+			
+
+            for (var i = 0; i < loadFiles.length; i++)
+                $("#jScottFree").find("#loadMenu").append($("<option />").val(loadFiles[i].file).text(loadFiles[i].desc));
+
+            $("#jScottFree").jScottFree({ debug: false });
+
+
+        });
+    </script>
+</head>
+<body>
+
+    <h1>jScottFree</h1>
+    <p>A jQuery plugin for playing Scott Adams adventure game files in the Scott Free format</p>
+    <p class="view"><a href="https://github.com/AndyStobirski/jScottFree">View the Project on GitHub <small>AndyStobirski/jScottFree</small></a></p>
+
+
+    <div id="jScottFree" class="Container">
+        <div class="Menu">
+            <select id="loadMenu">
+            </select>
+            <span id="loadButton" class='Item'>Load</span> <span id="resetButton" class='Item'>
+                Reset</span><span id="loadSavedGame"
+                    class='Item'>Load Saved Game</span>
+        </div>
+        <div class="TextWrapper">
+            <textarea id="worldView" readonly="" class="BigText" disabled="disabled"></textarea></div>
+        <div class="TextWrapper">
+            <textarea id="gameOutput" readonly="" class="BigText" disabled="disabled"></textarea></div>
+        <div class="TextWrapper">
+            <input id="gameInput" type="text" class="LittleText" placeholder="Tell me what to do"
+                disabled="disabled"></div>
+    </div>
+</body>
+</html>

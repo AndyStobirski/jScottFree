@@ -1,0 +1,153 @@
+* * * * * * THE COUNT - ADVENTURE EMPTY HINTS AND SOLUTIONS * * * * * *
+
+Read the questions until you get to where you are stuck.
+The numbers underneath refer to the dictionary listed at the end.
+Match each number with its associated word and you'll find an Adventure clue
+or solution!
+
+1 - CAN NOT GET OUT OF BED?
+     TRY - HELP -
+2 - More help for above problem.
+     WAKE UP AND ...
+3 - Solution to above problem.
+     GET UP
+-----------------------------------
+4 - CAN NOT FIGURE OUT WHAT YOU ARE DOING HERE?
+     WALK OUTSIDE
+5 - More help for above problem.
+     LEAVE CASTLE AND FOLLOW PATH
+6 - Solution to above problem.
+     GO GATE
+-----------------------------------
+7 - CAN NOT WORK THE DUMBWAITER?
+     ENTER DUMBWAITER AND - HELP -
+8 - More help for above problem.
+     WHAT DO YOU WANT IT TO DO
+9 - Solution to above problem.
+     ENTER DUMBWAITER - LOWER DUMBWAITER - OR RAISE DUMBWAITER -
+-----------------------------------
+10 - CAN NOT LEAVE THE DUMBWAITER?
+      IT IS REAL EASY
+11 - More help for above problem.
+      GO ...
+12 - Solution to above problem.
+      GO ROOM
+-----------------------------------
+13 - CAN NOT FIND DRACULA'S CRYPT?
+      GO OUTSIDE THE CASTLE AND LOOK CASTLE
+14 - More help for above problem.
+      CLIMB OUT THE BEDROOM WINDOW
+15 - Solution to above problem.
+      TIE SHEET TO SOMETHING AND CLIMB ON DOWN
+-----------------------------------
+16 - PROBLEM WITH A LOCKED DOOR?
+      TRY - HELP -
+17 - More help for above problem.
+      POSTCARD THE MAILMAN BRINGS IS USEFUL
+18 - Solution to above problem.
+      PICK THE LOCK WITH THE PAPER CLIP
+-----------------------------------
+19 - HAVE NOT FOUND THE MATCHES?
+      DUMBWAITER
+20 - More help for above problem.
+      IT GOES IN TWO DIRECTIONS
+21 - Solution to above problem.
+      GO DUMBWAITER - RAISE DUMBWAITER - GO ROOM -
+-----------------------------------
+22 - NEED SOME MORE LIGHT?
+      LIGHT A MATCH
+23 - More help for above problem.
+      CLIMB INTO THE PIT FIRST
+24 - Solution to above problem.
+      GO PIT - LIGHT MATCH
+-----------------------------------
+25 - CAN NOT GET OUT OF THE PIT?
+      RING
+26 - More help for above problem.
+      SHEET
+27 - Solution to above problem.
+      TIE SHEET TO RING AND GO PIT
+-----------------------------------
+28 - FLAG POLE BREAKING ALOT?
+      TIE SHEET ELSEWHERE
+29 - More help for above problem.
+      TRY BEDROOM
+30 - Solution to above problem.
+      TIE SHEET TO BED
+-----------------------------------
+31 - PESKY BAT BUGGING YOU?
+      CARRY WHAT VAMPIRES DON'T LIKE
+32 - More help for above problem.
+      IT CAN GIVE YOU BAD BREATH
+33 - Solution to above problem.
+      CARRY THE GARLIC AT NIGHT
+-----------------------------------
+34 - CAN NOT FIND DRACULA'S COFFIN?
+      READ SIGN IN THE CRYPT
+35 - More help for above problem.
+      SMOKING CAN HELP
+36 - Solution to above problem.
+      SMOKE A CIGARETTE IN THE CRYPT
+-----------------------------------
+37 - GETTING ROBBED ALOT?
+      FIND A DUSTY PLACE WHERE DRACULA CAN NOT GET TO
+38 - More help for above problem.
+      CLOSET
+39 - Solution to above problem.
+      PICK LOCK - HIDE STAKE AND CIGARETTE PACK HERE - REMEMBER
+      TO LOCK THE DOOR BEHIND YOU
+-----------------------------------
+40 - CAN NOT OPEN THE COFFIN?
+      TRY WHEN IT IS SUPPOSED TO BE EMPTY
+41 - More help for above problem.
+      THE BAT IS DRACULA
+42 - Solution to above problem.
+      OPEN IT AT NIGHT
+-----------------------------------
+43 - COFFIN LOCK A PROBLEM?
+      REMEMBER THE OVEN
+44 - More help for above problem.
+      OVEN IS SOLAR HEATED
+45 - Solution to above problem.
+      WAIT UNTIL NIGHT TIME THEN ENTER OVEN
+-----------------------------------
+46 - STILL CAN NOT KILL DRACULA?
+      YOU MUST DO IT AS HE SLEEPS
+47 - More help for above problem.
+      FIX IT THE NIGHT BEFORE
+48 - Solution to above problem.
+      BREAK LOCK ON COFFIN AT NIGHT AND THEN KILL DRACULA THE NEXT DAY
+-----------------------------------
+
+------------------------------------------------------------------------------
+                            * DICTIONARY *
+ 1 OR                31 PAPER            61 DUMBWAITER       91 WALK
+ 2 OUT               32 THEN             62 GET              92 LIKE
+ 3 SMOKE             33 VAMPIRES         63 DRACULA          93 WINDOW
+ 4 GARLIC            34 YOU              64 GATE             94 TRY
+ 5 EMPTY             35 DOOR             65 CLOSET           95 POSTCARD
+ 6 CLIMB             36 HEATED           66 GO               96 REAL
+ 7 COFFIN            37 SOLAR            67 LEAVE            97 UNTIL
+ 8 CLIP              38 SMOKING          68 WANT             98 BEFORE
+ 9 AT                39 DIRECTIONS       69 CAN              99 UP
+ 10 HIDE             40 DO               70 FOLLOW           100 BREAK
+ 11 A                41 WAKE             71 HERE             101 BAT
+ 12 WHEN             42 MAILMAN          72 DON'T            102 LOCK
+ 13 WITH             43 CASTLE           73 TIME             103 GIVE
+ 14 FIX              44 OPEN             74 DUSTY            104 AS
+ 15 ELSEWHERE        45 SHEET            75 REMEMBER         105 PIT
+ 16 RAISE            46 DOWN             76 LOOK             106 -
+ 17 CARRY            47 INTO             77 SUPPOSED         107 PLACE
+ 18 SLEEPS           48 BEDROOM          78 MATCH            108 ...
+ 19 IN               49 TWO              79 BE               109 BRINGS
+ 20 PICK             50 BED              80 THE              110 STAKE
+ 21 ROOM             51 EASY             81 SIGN             111 LIGHT
+ 22 KILL             52 ENTER            82 MUST             112 BAD
+ 23 CRYPT            53 NOT              83 PACK             113 CIGARETTE
+ 24 HE               54 NIGHT            84 BREATH           114 WAIT
+ 25 OVEN             55 BEHIND           85 AND              115 TIE
+ 26 WHAT             56 DAY              86 SOMETHING        116 OUTSIDE
+ 27 NEXT             57 TO               87 HELP             117 RING
+ 28 IS               58 PATH             88 IT               118 FIRST
+ 29 LOWER            59 GOES             89 READ             119 WHERE
+ 30 FIND             60 ON               90 USEFUL          

@@ -1,0 +1,119 @@
+* * * * * * VOODOO CASTLE - ADVENTURE MOVE HINTS AND SOLUTIONS * * * * * *
+
+Read the questions until you get to where you are stuck.
+The numbers underneath refer to the dictionary listed at the end.
+Match each number with its associated word and you'll find an Adventure clue
+or solution!
+
+1 - HAVE NOT GOT A RING YET?
+     IT IS WHERE YOU STARTED
+2 - More help for above problem.
+     OPEN COFFIN
+3 - Solution to above problem.
+     OPEN COFFIN - LOOK COUNT - GET RING
+-----------------------------------
+4 - CAN NOT GET PAST THE STONE DOOR?
+     READ THE RING
+5 - More help for above problem.
+     LOOK AT STONE IN THE WALL
+6 - Solution to above problem.
+     WAVE RING AT THE DOOR
+-----------------------------------
+7 - HAVE NOT FOUND A SAFE?
+     REMOVE ANIMAL HEADS
+8 - More help for above problem.
+     TRY THE ARMORY
+9 - Solution to above problem.
+     GET THE SWORD AND GET THE ANIMAL HEADS
+-----------------------------------
+10 - CAN NOT READ THE PLAQUE?
+      NEED LENS
+11 - More help for above problem.
+      READ IT IN SCANT LIGHT
+12 - Solution to above problem.
+      ENTER FIREPLACE OR SOMEWHERE DARK - HAVE THE GLASS - READ THE PLAQUE
+-----------------------------------
+13 - NEED LIGHT?
+      DUSTY ?
+14 - More help for above problem.
+      IDOL
+15 - Solution to above problem.
+      CLEAN IDOL
+-----------------------------------
+16 - EXPLODING CHEM TUBES A PROBLEM?
+      TRY ARMORY
+17 - More help for above problem.
+      PROTECT YOURSELF
+18 - Solution to above problem.
+      CARRY THE SHIELD
+-----------------------------------
+19 - TINY DOOR TOO SMALL FOR YOU?
+      EXAMINE CHEMICALS
+20 - More help for above problem.
+      MIX CHEMICALS
+21 - Solution to above problem.
+      MIX AND DRINK CHEMICALS
+-----------------------------------
+22 - STUCK CHIMNEY SWEEP?
+      IF YOU CAN NOT PULL HIM OUT ...
+23 - More help for above problem.
+      GET HIM OUT THE WAY HE CAME IN
+24 - Solution to above problem.
+      PUSH SWEEP
+-----------------------------------
+25 - CRACK IN THE WALL A PROBLEM?
+      SUMMON THE MEDIUM IN HER CHAMBER
+26 - More help for above problem.
+      BAG IS THE KEY REMEMBER THE RING
+27 - Solution to above problem.
+      WAVE BAG BY CRACK
+-----------------------------------
+28 - MISSING RABBIT'S FOOT OR FOUR LEAF CLOVER?
+      ONE IS BY A KETTLE THE OTHER BY NETTLES
+29 - More help for above problem.
+      LOOK KETTLE AND REMEMBER A SMALL PASSAGE
+30 - Solution to above problem.
+      LOOK GRAVE - MOVE KETTLE - GO HOLE
+-----------------------------------
+31 - CURSE STILL HOLDING?
+      LISTEN TO MEDIUM ABOUT THE GOOD LUCK CHARMS
+32 - More help for above problem.
+      BE SURE YOU HAVE THE DOLL
+33 - Solution to above problem.
+      BE SURE THE GOOD LUCK CHARM IS ALSO ON THE COUNT
+-----------------------------------
+34 - WINDOW STILL SLAMMING SHUT?
+      GET LUCKY
+35 - More help for above problem.
+      CARRY THE RIGHT ITEM
+36 - Solution to above problem.
+      CARRY THE CLOVER
+-----------------------------------
+
+------------------------------------------------------------------------------
+                            * DICTIONARY *
+ 1 LIGHT             26 IT               51 WALL             76 ITEM
+ 2 AT                27 CHEMICALS        52 HAVE             77 READ
+ 3 OR                28 ...              53 SCANT            78 CRACK
+ 4 MOVE              29 SWEEP            54 YOURSELF         79 REMOVE
+ 5 BY                30 ONE              55 CARRY            80 DOOR
+ 6 ARMORY            31 KETTLE           56 OUT              81 ?
+ 7 LOOK              32 HER              57 YOU              82 LISTEN
+ 8 GOOD              33 CLOVER           58 STONE            83 SWORD
+ 9 HIM               34 IN               59 CHARM            84 ALSO
+ 10 LENS             35 PROTECT          60 HEADS            85 REMEMBER
+ 11 ON               36 DARK             61 OTHER            86 IDOL
+ 12 EXAMINE          37 SMALL            62 SOMEWHERE        87 DUSTY
+ 13 WHERE            38 DRINK            63 IF               88 AND
+ 14 SURE             39 FIREPLACE        64 TO               89 WAVE
+ 15 CAME             40 PUSH             65 -                90 KEY
+ 16 NEED             41 ABOUT            66 GET              91 PULL
+ 17 GO               42 CAN              67 LUCK             92 BE
+ 18 IS               43 OPEN             68 CHAMBER          93 THE
+ 19 ENTER            44 DOLL             69 NETTLES          94 TRY
+ 20 BAG              45 PASSAGE          70 WAY              95 RING
+ 21 CLEAN            46 LUCKY            71 CHARMS           96 SHIELD
+ 22 COUNT            47 A                72 ANIMAL           97 COFFIN
+ 23 MEDIUM           48 HE               73 SUMMON           98 PLAQUE
+ 24 MIX              49 STARTED          74 GRAVE            99 NOT
+ 25 RIGHT            50 GLASS            75 HOLE            

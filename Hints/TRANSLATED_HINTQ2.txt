@@ -1,0 +1,316 @@
+* * * * * * SPIDER-MAN - QUESTPROBE RESET HINTS AND SOLUTIONS * * * * * *
+
+Read the questions until you get where you are stuck.
+The numbers underneath refer to the dictionary listed at the end.
+Match each number with its associated word and you'll find an Adventure clue
+or solution!
+
+1 - PROBLEM WITH MADAM WEB?
+     SHE IS A FRIEND
+2 - More help for above problem.
+     TALK TO MADAM WEB
+3 - Solution to above problem.
+     SHE IS PSYCHIC AND WILL SCAN ITEMS FOR
+     YOU IF YOU ASK HER
+-----------------------------------
+4 - SANDMAN A PROBLEM?
+     ASK MADAM WEB
+5 - More help for above problem.
+     WHO SAYS OUCH AND WHY ?
+6 - Solution to above problem.
+     SPIDER-MAN IS NOT RESTRICTED TO THE FLOOR
+-----------------------------------
+7 - SANDMAN STILL A PROBLEM?
+     DO NOT WAKE HIM
+8 - More help for above problem.
+     TREAD LIGHTLY
+9 - Solution to above problem.
+     GO CEILING THEN GO INTO THE ROOM AND
+     LOOK IN THE CRIB
+-----------------------------------
+10 - LIZARD A PROBLEM?
+      DO NOT BOTHER HIM NOW
+11 - More help for above problem.
+      MADAM WEB
+12 - Solution to above problem.
+      IT IS A CHEMICAL FORMULA
+-----------------------------------
+13 - HYDROMAN A PROBLEM?
+      IN THE TANK
+14 - More help for above problem.
+      GET GEM FROM TANK
+15 - Solution to above problem.
+      WAIT UNTIL LATER
+-----------------------------------
+16 - BIO GEM A PROBLEM?
+      DO NOT GET NEAR IT
+17 - More help for above problem.
+      YOUR IMMEDIATE PRESENCE SETS IT OFF
+18 - Solution to above problem.
+      WAIT UNTIL LATER
+-----------------------------------
+19 - ELEVATOR A PROBLEM?
+      IT IS BROKEN
+20 - More help for above problem.
+      IT WILL NOT SHOW UP BUT YOU
+      ARE SPIDER-MAN
+21 - Solution to above problem.
+      OPEN DOORS
+-----------------------------------
+22 - ELEVATOR STILL A PROBLEM?
+      LOOK INTO THE ELEVATOR SHAFT
+23 - More help for above problem.
+      YOU ARE SPIDER-MAN
+24 - Solution to above problem.
+      GO INTO THE SHAFT
+-----------------------------------
+25 - MYSTERIO A PROBLEM?
+      HE IS THE MASTER OF HOLLYWOOD
+      STYLE ILLUSIONS
+26 - More help for above problem.
+      THINGS ARE NEVER THE WAY THEY SEEM
+      AROUND MYSTERIO
+27 - Solution to above problem.
+      MADAME WEB CAN SCAN HIM FOR YOU
+-----------------------------------
+28 - MYSTERIO STILL A PROBLEM?
+      WHICH FLOOR ARE YOU ON ? LOOK UP
+      AND DOWN AND THINK ABOUT IT
+29 - More help for above problem.
+      EXAMINE THINGS
+30 - Solution to above problem.
+      LOOK SKY
+-----------------------------------
+31 - MYSTERIO STILL A PROBLEM?
+      GO TO HIM
+32 - More help for above problem.
+      MAKE AN INTUITIVE LEAP
+33 - Solution to above problem.
+      JUMP
+-----------------------------------
+34 - FALLING BUT NOT LANDING?
+      MYSTERIO AGAIN
+35 - More help for above problem.
+      REMEMBER SANDMAN
+36 - Solution to above problem.
+      USE ALL YOUR SENSES
+-----------------------------------
+37 - STILL HAVE NOT FOUND A LARGE FAN?
+      YOU ARE NOT WHERE YOU THINK
+38 - More help for above problem.
+      YOU ARE STILL IN THE BUILDING AT
+      ALL TIMES
+39 - Solution to above problem.
+      JUMP UP WHILE ON SIDE OF BUILDING
+-----------------------------------
+40 - CAN NOT GO ALL THE WAY UP THE ELEVATOR?
+      CHECK OUT WHAT STOPS YOU
+41 - More help for above problem.
+      LOOK UP AND REMEMBER YOU ARE SPIDER-MAN
+42 - Solution to above problem.
+      PUSH UP AND THEN GO UP
+-----------------------------------
+43 - CAN NOT SPIN A WEB?
+      MAKE WEB FLUID
+44 - More help for above problem.
+      FLOOR BELOW PENTHOUSE
+45 - Solution to above problem.
+      CHEM LAB AND CHEMICALS ARE ON SAME FLOOR
+-----------------------------------
+46 - STILL CAN NOT SPIN A WEB?
+      FORMULA IS IN THE PENTHOUSE
+47 - More help for above problem.
+      IT IS ON A PIECE OF PAPER
+      THAT IS HIDDEN
+48 - Solution to above problem.
+      LOOK PAINTING
+-----------------------------------
+49 - STILL MISSING FORMULA?
+      GET PAINTING
+50 - More help for above problem.
+      LOOK PAINTING
+51 - Solution to above problem.
+      REMOVE FRAME
+-----------------------------------
+52 - FAN A PROBLEM?
+      STOP IT
+53 - More help for above problem.
+      YOU ARE SPIDER-MAN
+54 - Solution to above problem.
+      SNARL IT UP A BIT
+-----------------------------------
+55 - MAZE A PROBLEM?
+      MADAM WEB
+56 - More help for above problem.
+      WHAT ARE COMPASS DIRECTIONS
+57 - Solution to above problem.
+      GO ONLY UP OR DOWN IN IT
+-----------------------------------
+58 - ELECTRO A PROBLEM?
+      GROUND YOUR SELF
+59 - More help for above problem.
+      DR OCK ARMS ARE MADE OF METAL
+60 - Solution to above problem.
+      GRAB DR OCK ARMS BEFORE HITTING ELECTRO
+-----------------------------------
+61 - PRESSES A PROBLEM?
+      RINGMASTER
+62 - More help for above problem.
+      START PRESS
+63 - Solution to above problem.
+      GO TO THE COMPUTER LAB
+-----------------------------------
+64 - RINGMASTER A PROBLEM?
+      LIGHTS GET YOUR ATTENTION
+65 - More help for above problem.
+      TALK TO RINGMASTER
+66 - Solution to above problem.
+      CLOSE EYES ENTER THE ROOM THEN PUSH THE
+      KNOB AND TURN IT
+-----------------------------------
+67 - LIZARD A PROBLEM?
+      MADAM WEB CAN SCAN HIM
+68 - More help for above problem.
+      YOU CAN MAKE THE CHEMICAL NEEDED
+69 - Solution to above problem.
+      IN CHEM LAB MAKE CALCIUM CHLORIDE FROM
+      CALCIUM CARBONATE AND ACID THEN THROW IT
+      ON LIZARD THEN EXAMINE HIM
+-----------------------------------
+70 - HYDROMAN A PROBLEM?
+      HE IS MADE OF WATER REMEMBER WHAT
+      MADAM WEB SAID
+71 - More help for above problem.
+      PENTHOUSE
+72 - Solution to above problem.
+      LOWER THERMOSTAT TILL IT IS BELOW 32
+      DEGREES
+-----------------------------------
+73 - BIO GEM A PROBLEM?
+      LOOK WEST FROM HALL
+74 - More help for above problem.
+      IF YOU CAN SEE USE ONE OF
+      YOUR SPIDER ASSETS
+75 - Solution to above problem.
+      SHOOT WEB AT BIO GEM FROM HALL
+-----------------------------------
+76 - SCORE STILL ZERO?
+      MADAM WEB
+77 - More help for above problem.
+      SCAN SCORE BY MADAM WEB
+78 - Solution to above problem.
+      LEAVE GEMS BY MADAM WEB AND THEN
+      TYPE SCORE
+-----------------------------------
+79 - STILL MISSING SOME GEMS?
+      ELEVATOR SHAFT ALSO EXAMINE DR OCK
+      AND ELECTRO
+80 - More help for above problem.
+      DROP SOMETHING IN THE ELEVATOR SHAFT
+81 - Solution to above problem.
+      EXAMINE WALLS IN ELEVATOR SHAFT
+-----------------------------------
+82 - STILL MISSING SOME GEMS?
+      THERE ARE 4 GEMS IN THE
+      ELEVATOR SHAFT
+83 - More help for above problem.
+      START THE PRESS
+84 - Solution to above problem.
+      CHECK THE DESK
+-----------------------------------
+85 - PRINTING PRESS A PROBLEM?
+      TYPE RUN IN COMPUTER LAB
+86 - More help for above problem.
+      PUT SOMETHING IN THE WEIGHT SCALE ROOM
+      NEXT TO THE PRESS ROOM
+87 - Solution to above problem.
+      PUT EVERYTHING YOU CAN FIND ON SCALE :
+      DR OCK , ELECTRO , HYDROMAN
+      , COUCH , DESK , CLOCK
+      , MESH , AQUARIUM ETC
+-----------------------------------
+88 - FAN STILL A PROBLEM?
+      USE A SPIDER ASSET
+89 - More help for above problem.
+      SHOOT WEB
+90 - Solution to above problem.
+      SHOOT WEB AT FAN THEN EXAMINE FAN WHEN
+      SPEED DROPS TO 50 SHOOT WEB BUTTON
+-----------------------------------
+91 - CAN NOT FIGURE OUT HOW TO GET
+     GEM FROM NEWSPAPER?
+      OPEN IT
+92 - More help for above problem.
+      SAGAPLUS VERSION READ NEWS PAPER AND
+      SOLVE PUZZLE
+93 - Solution to above problem.
+      TYPE RESET AT COMPUTER KEYBOARD ON SAGAPLUS VERSION AFTER
+      GETTING NEWS PAPER
+-----------------------------------
+94 - STILL MISSING GEMS?
+      LOOK CRIB AGAIN
+95 - More help for above problem.
+      WHILE IN SKY USE OTHER SENSES
+96 - Solution to above problem.
+      FEEL WEST ETC WHILE FLOATING IN SKY
+-----------------------------------
+
+------------------------------------------------------------------------------
+                            * DICTIONARY *
+ 1 INTUITIVE         58 CLOSE            115 AN              172 STILL
+ 2 RESET             59 WAIT             116 4               173 THERE
+ 3 SAME              60 TILL             117 ARMS            174 BEFORE
+ 4 WILL              61 HYDROMAN         118 INTO            175 NEEDED
+ 5 TREAD             62 TANK             119 SAYS            176 SHOW
+ 6 KEYBOARD          63 NEAR             120 CALCIUM         177 NEXT
+ 7 WAY               64 ETC              121 HIM             178 WHILE
+ 8 DEGREES           65 HIDDEN           122 WATER           179 IN
+ 9 SHOOT             66 OTHER            123 ILLUSIONS       180 LATER
+ 10 SANDMAN          67 WHICH            124 COUCH           181 SAID
+ 11 DESK             68 THEN             125 OFF             182 ACID
+ 12 GO               69 OR               126 WAKE            183 UNTIL
+ 13 HE               70 TIMES            127 PAPER           184 WEIGHT
+ 14 RINGMASTER       71 ELEVATOR         128 THAT            185 REMEMBER
+ 15 SEE              72 SPEED            129 LAB             186 FRAME
+ 16 LIGHTLY          73 TO               130 A               187 FLOATING
+ 17 BY               74 LIZARD           131 FROM            188 PIECE
+ 18 KNOB             75 VERSION          132 ATTENTION       189 OUCH
+ 19 LIGHTS           76 GET              133 SEEM            190 WHERE
+ 20 PUT              77 BELOW            134 SHAFT           191 NOT
+ 21 TYPE             78 MYSTERIO         135 WHAT            192 ALL
+ 22 JUMP             79 BUTTON           136 UP              193 PUZZLE
+ 23 CAN              80 CEILING          137 THERMOSTAT      194 IMMEDIATE
+ 24 RESTRICTED       81 DOWN             138 IF              195 BIO
+ 25 BROKEN           82 FEEL             139 MADE            196 WEB
+ 26 MAKE             83 AT               140 CHEM            197 MESH
+ 27 SKY              84 HITTING          141 ONLY            198 MADAM
+ 28 PENTHOUSE        85 GEM              142 :               199 BOTHER
+ 29 EVERYTHING       86 AQUARIUM         143 REMOVE          200 LOWER
+ 30 STOPS            87 EYES             144 CRIB            201 SOMETHING
+ 31 DOORS            88 ABOUT            145 ,               202 WEST
+ 32 FIND             89 ROOM             146 START           203 RUN
+ 33 BUT              90 ITEMS            147 DR              204 SNARL
+ 34 PRESENCE         91 DROPS            148 BUILDING        205 ONE
+ 35 50               92 HER              149 GRAB            206 WHEN
+ 36 LOOK             93 ?                150 OUT             207 FAN
+ 37 ARE              94 SOLVE            151 DO              208 MASTER
+ 38 SPIDER           95 YOU              152 GEMS            209 THINGS
+ 39 SHE              96 LEAVE            153 PSYCHIC         210 OCK
+ 40 THROW            97 SETS             154 NEWS            211 SPIDER-MAN
+ 41 IS               98 SENSES           155 STYLE           212 WHO
+ 42 HALL             99 ASSETS           156 FLOOR           213 USE
+ 43 STOP             100 AFTER           157 GROUND          214 ASSET
+ 44 TALK             101 THEY            158 SCALE           215 FORMULA
+ 45 METAL            102 THE             159 WALLS           216 GETTING
+ 46 DIRECTIONS       103 ASK             160 BIT             217 CHECK
+ 47 AROUND           104 SCORE           161 FOR             218 PRESS
+ 48 CHEMICALS        105 SCAN            162 IT              219 32
+ 49 COMPUTER         106 FRIEND          163 UNTIL           220 PAINTING
+ 50 MADAME           107 ALSO            164 AGAIN           221 SIDE
+ 51 WHY              108 CARBONATE       165 NOW             222 YOUR
+ 52 SELF             109 HOLLYWOOD       166 COMPASS         223 CHLORIDE
+ 53 ON               110 CLOCK           167 DROP            224 SAGAPLUS
+ 54 BREAK            111 CHEMICAL        168 ENTER           225 OF
+ 55 NEVER            112 AND             169 TURN            226 ELECTRO
+ 56 PUSH             113 OPEN            170 FLUID           227 THINK
+ 57 EXAMINE          114 LEAP            171 READ           

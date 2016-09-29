@@ -1,0 +1,178 @@
+* * * * * * ADVENTURELAND - ADVENTURE MAKE HINTS AND SOLUTIONS * * * * * *
+
+Read the questions until you get to where you are stuck.
+The numbers underneath refer to the dictionary listed at the end.
+Match each number with its associated word and you'll find an Adventure clue
+or solution!
+
+1 - STUCK IN THE FOREST?
+     WHAT IS THE MAIN OBJECT IN A FOREST
+2 - More help for above problem.
+     CLIMB TREE
+3 - Solution to above problem.
+     GO EAST
+-----------------------------------
+4 - CAN NOT FIND WHERE TO STORE YOUR
+    TREASURES?
+     CLIMB THE CYPRESS TREE IN THE SWAMP
+5 - More help for above problem.
+     USE THE AX
+6 - Solution to above problem.
+     CHOP DOWN THE CYPRESS TREE THEN ENTER THE STUMP
+-----------------------------------
+7 - CAN NOT CATCH THE FISH?
+     WAIT UNTIL YOU HAVE GOTTEN OUT OF THE PITS
+8 - More help for above problem.
+     A NET IS VERY HANDY
+9 - Solution to above problem.
+     USE THE BOTTLE OF WATER AND THE NET
+-----------------------------------
+10 - CAN NOT WAKE THE DRAGON?
+      TRY AGAIN LATER ON IN THE ADVENTURE THIS CAN BE ONE
+      OF THE LAST THINGS YOU DO
+11 - More help for above problem.
+      CLUE IS IN THE MIRROR
+12 - Solution to above problem.
+      BEES
+-----------------------------------
+13 - IS IT TOO DARK TO SEE?
+      ENTER BOTTOMLESS HOLE
+14 - More help for above problem.
+      USE THE FLINT AND STEEL AND SOMETHING FROM STUMP
+15 - Solution to above problem.
+      LIGHT THE LAMP WITH FLINT AND STEEL
+-----------------------------------
+16 - STUCK IN THE PIT?
+      YOU NEED MAGIC
+17 - More help with above problem.
+      SAY THE MAGIC WORD WITH THE RIGHT OBJECT
+18 - Solution to above problem.
+      SAY AWAY TWICE WHILE HOLDING RUG
+-----------------------------------
+19 - CAN NOT GET THE OX OUT OF THE BOG?
+      YOU NEED MAGIC
+20 - More help for above problem.
+      IT IS PAUL'S OX AND HIS GROVE SO USE HIS TOOL
+21 - Solution to above problem.
+      SAY BUNYON WHILE HOLDING AX AND OX AND SEARCH ABOVE GROUND
+-----------------------------------
+22 - BRICK WALL A PROBLEM?
+      THROW AX AT IT
+23 - More help for above problem.
+      BLOW IT UP
+24 - Solution to above problem.
+      FILL BLADDER WITH SWAMP GAS AND BLOW UP THE WALL
+      WITH IT
+-----------------------------------
+25 - NEED TO CROSS A CHASM?
+      IT IS NOT THAT FAR - GO FOR IT
+26 - More help for above problem.
+      REALLY YOU CAN MAKE IT
+27 - Solution to above problem.
+      JUMP
+-----------------------------------
+28 - BEAR A PROBLEM?
+      HE IS HUNGRY
+29 - More help for above problem.
+      YOU WILL FIND A BETTER WAY IN THE MIRROR
+30 - Solution to above problem.
+      DROP MIRROR ON RUG
+-----------------------------------
+31 - BEAR STILL USING UP A TREASURE?
+      HOW DO YOU GET MAD AT SOMEONE
+32 - More help for above problem.
+      LOSE YOUR TEMPER AND ...
+33 - Solution to above problem.
+      YELL AT THE BEAR
+-----------------------------------
+34 - BEES A PROBLEM?
+      TRY - HELP - IN BEE HIVE
+35 - More help for above problem.
+      YOU NEED PROTECTION FROM THE SWAMP
+36 - Solution to above problem.
+      CARRY MUD
+-----------------------------------
+37 - MUD DRIES UP A LOT?
+      KEEP IT MOIST
+38 - More help for above problem.
+      CARRY WATER
+39 - Solution to above problem.
+      CARRY BOTTLE OF WATER
+-----------------------------------
+40 - LAVA A PROBLEM?
+      MIRROR IS GOOD FOR MANY CLUES
+41 - More help for above problem.
+      BRICKS FROM THE WALL
+42 - Solution to above problem.
+      DAM LAVA WITH FIRE BRICKS
+-----------------------------------
+43 - DRAGON STILL STORING?
+      USE MIRROR FOR A CLUE
+44 - More help for above problem.
+      BLOW UP THE DRAGON BUT THERE IS ANOTHER WAY
+45 - Solution to above problem.
+      BEES
+-----------------------------------
+46 - BEES DYING ON YOU?
+      USE FASTER TRANSPORTATION
+47 - More help for above problem.
+      BOTTLE THE BEES AND USE MAGIC
+48 - Solution to above problem.
+      USE THE RUG AND OR PUNCH A HOLE THE BOTTLE
+-----------------------------------
+49 - MISSING SOME DIAMOND TREASURES?
+      THE LAMP
+50 - More help for above problem.
+      REMEMBER ALADIN - BUT NOT TOO GREEDY NOW
+51 - Solution to above problem.
+      RUB LAMP TWICE
+-----------------------------------
+52 - MISSING A CROWN?
+      WHERE DOES A CROWN BELONG
+53 - More help for above problem.
+      IT IS NEAR THE BEAR
+54 - Solution to above problem.
+      GO THRONE ROOM BY LEDGE BEAR WAS ON
+-----------------------------------
+
+------------------------------------------------------------------------------
+                            * DICTIONARY *
+ 1 MAKE              40 THE              79 MOIST            118 THINGS
+ 2 YELL              41 GOOD             80 GO               119 NOW
+ 3 MAGIC             42 RIGHT            81 HOLE             120 WAS
+ 4 WHAT              43 WAIT             82 STEEL            121 WHILE
+ 5 EAST              44 UNTIL            83 BLADDER          122 FOREST
+ 6 BOTTLE            45 SO               84 YOUR             123 LATER
+ 7 LAVA              46 DOWN             85 TRY              124 BETTER
+ 8 SWAMP             47 MAD              86 VERY             125 UP
+ 9 OX                48 HIVE             87 SAY              126 AND
+ 10 THROW            49 OF               88 SOMEONE          127 BRICKS
+ 11 MAIN             50 NOT              89 SEARCH           128 LEDGE
+ 12 BUT              51 TOO              90 MIRROR           129 TOOL
+ 13 DO               52 GROVE            91 RUG              130 KEEP
+ 14 ROOM             53 BUNYON           92 BEAR             131 RUB
+ 15 MUD              54 STUMP            93 CARRY            132 GAS
+ 16 -                55 FAR              94 SOMETHING        133 HAVE
+ 17 REMEMBER         56 IN               95 WORD             134 CLUES
+ 18 THRONE           57 CYPRESS          96 GOTTEN           135 LIGHT
+ 19 WALL             58 CAN              97 TRANSPORTATION   136 BELONG
+ 20 FROM             59 GROUND           98 PAUL'S           137 CLIMB
+ 21 THERE            60 HUNGRY           99 PROTECTION       138 USE
+ 22 A                61 ON               100 HIS             139 NEED
+ 23 ANOTHER          62 LAST             101 ...             140 DRAGON
+ 24 FIND             63 AGAIN            102 ENTER           141 ADVENTURE
+ 25 HOW              64 DOES             103 OUT             142 OBJECT
+ 26 IT               65 FILL             104 WILL            143 GET
+ 27 DAM              66 HOLDING          105 ABOVE           144 JUMP
+ 28 WAY              67 BEES             106 CHOP            145 AX
+ 29 MANY             68 FIRE             107 OR              146 BY
+ 30 FOR              69 NEAR             108 WITH            147 BLOW
+ 31 HANDY            70 THAT             109 ONE             148 TREE
+ 32 AT               71 IS               110 HELP            149 PUNCH
+ 33 GREEDY           72 THIS             111 DROP            150 THEN
+ 34 BE               73 NET              112 HE              151 CLUE
+ 35 BOTTOMLESS       74 ALADIN           113 REALLY          152 LOSE
+ 36 BEE              75 YOU              114 AWAY           
+ 37 CROWN            76 WHERE            115 TWICE          
+ 38 PITS             77 WATER            116 FLINT          
+ 39 FASTER           78 LAMP             117 TEMPER         
