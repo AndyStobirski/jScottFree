@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <title>jScottFree by AndyStobirski</title>
+    <script src="https://code.jquery.com/jquery-1.11.3.js" type="text/javascript"></script>
+    <script src="scottLoad.js" type="text/javascript"></script>
+    <script src="jQuery.jScottFree.js" type="text/javascript"> </script>
+    <link href="jquery.jScottFree.css" rel="stylesheet" type="text/css" />	
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            var loadFiles =
+
+            [
+               { "file": "adv01.dat", "desc": "Adventure Land" }
+			   , { "file": "adv02.dat", "desc": "Pirate Adventure" }
+			   , { "file": "adv03.dat", "desc": "Secret Mission" }
+                , { "file": "adv04.dat", "desc": "Voodoo Castle" }
+                , { "file": "adv05.dat", "desc": "The Count" }
+                , { "file": "adv06.dat", "desc": "Strange Odyssey" }
+				, { "file": "adv07.dat", "desc": "Mystery Fun House" }
+                , { "file": "adv08.dat", "desc": "Pyramid of Doom" }				
+                , { "file": "adv09.dat", "desc": "Ghost Town" }
+                , { "file": "adv10.dat", "desc": "Savage Island Part 1" }
+                , { "file": "adv11.dat", "desc": "Savage Island Part 2" }
+                , { "file": "adv12.dat", "desc": "Golden Voyage" }
+                , { "file": "adv13.dat", "desc": "Sorcerer of Claymorgue Castle" }
+				, { "file": "adv14.dat", "desc": "Return to Pirate's Island	" }
+			];
+			
+            for (var i = 0; i < loadFiles.length; i++)
+                $("#jScottFree").find("#loadMenu").append($("<option />").val(loadFiles[i].file).text(loadFiles[i].desc));
+
+            $("#jScottFree").jScottFree({ debug: false });
+
+
+        });
+    </script>	
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>jScottFree</h1>
+        <h2>A jQuery plugin for playing Scott Adams Adventure Games</h2>
+
+        <section id="downloads">
+          <a href="https://github.com/AndyStobirski/jScottFree/zipball/master" class="btn">Download as .zip</a>
+          <a href="https://github.com/AndyStobirski/jScottFree/tarball/master" class="btn">Download as .tar.gz</a>
+          <a href="https://github.com/AndyStobirski/jScottFree" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
+	<div class="container">
+        <section id="downloads">
+          <a href="index.html" class="btn">jScottFree plugin</a>
+          <a href="jScottFreeDebug.htm" class="btn">jScottFree plugin debug mode</a>
+          <a href="loadDatFile.htm" class="btn"></span>DAT File viewer</a>
+        </section>
+	</div>	
+		
+    <div class="container">
+	<p>Debug mode disabled</p>
+      <section id="main_content">
+    <div id="jScottFree" class="Container">
+        <div class="Menu">
+            <select id="loadMenu">
+            </select>
+            <span id="loadButton" class='Item'>Load</span> <span id="resetButton" class='Item'>
+                Reset</span> <span id="dataButton" class='Item'>Data</span> <span id="loadSavedGame"
+                    class='Item'>Load Saved Game</span>
+        </div>
+        <div class="TextWrapper">
+            <textarea id="worldView" readonly="" class="BigText" disabled="disabled"></textarea></div>
+        <div class="TextWrapper">
+            <textarea id="gameOutput" readonly="" class="BigText" disabled="disabled"></textarea></div>
+        <div class="TextWrapper">
+            <input id="gameInput" type="text" class="LittleText" placeholder="Tell me what to do"
+                disabled="disabled"></div>
+    </div>
+      </section>
+    </div>
+
+    
+  </body>
+</html>

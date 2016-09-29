@@ -1,0 +1,152 @@
+.Container {
+    border-radius: 4px;
+    padding: 0;
+    border: 2px solid #73AD21;
+    width: 650px;
+    position: relative;
+    overflow: hidden;
+    -webkit-box-sizing: border-box;
+/* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;
+/* Firefox, other Gecko */
+    box-sizing: border-box;
+/* Opera/IE 8+ */
+    font-family: monospace;
+}
+
+.Container > .TextWrapper {
+    padding-right: 14px;
+/* 1 + 6 + 6 + 1 */
+}
+
+.BigText {
+    vertical-align: top;
+/*stop extra spaces appearing in text areas*/
+    border-radius: 4px;
+    display: block;
+    height: 175px;
+    resize: none;
+    width: 100%;
+    margin: 6px;
+    -webkit-box-sizing: border-box;
+/* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;
+/* Firefox, other Gecko */
+    box-sizing: border-box;
+/* Opera/IE 8+ */
+    border: 2px solid #73AD21;
+    font-family: monospace;
+}
+
+.LittleText {
+    border-radius: 4px;
+    width: 100%;
+    margin: 0 6px 6px;
+    -webkit-box-sizing: border-box;
+/* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;
+/* Firefox, other Gecko */
+    box-sizing: border-box;
+/* Opera/IE 8+ */
+    content: "Tell me what to do";
+/*text-transform: uppercase;*/
+    border: 2px solid #73AD21;
+    font-family: monospace;
+}
+
+.Menu {
+    border-radius: 4px;
+    margin: 6px;
+    padding: 2px 2p 8px 2px;
+    background-color: #73AD21;
+    border: 2px solid #73AD21;
+}
+
+.Menu > .Item {
+    padding: 2px 8px 2px 2px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.Hide {
+    display: none;
+}
+
+.debug {
+    overflow: auto;
+    background-color:White;
+    word-break: break-all;
+    color:Black;
+    font-family: monospace;
+}
+
+/*Boxed item*/
+.debugItem {
+    border: 1px solid #73AD21;
+    padding: 2px;
+    margin: 4px;
+    white-space: pre-wrap;
+/* CSS3 */
+    white-space: -moz-pre-wrap;
+/* Firefox */
+    white-space: -pre-wrap;
+/* Opera <7 */
+    white-space: -o-pre-wrap;
+/* Opera 7 */
+    word-wrap: break-word;
+/* IE */
+}
+
+/*solid green background*/
+.debugItem_performactions {
+    border: 1px solid #73AD21;
+    background-color: #73AD21;
+    padding: 2px;
+    margin: 4px;
+    white-space: pre-wrap;
+/* CSS3 */
+    white-space: -moz-pre-wrap;
+/* Firefox */
+    white-space: -pre-wrap;
+/* Opera <7 */
+    white-space: -o-pre-wrap;
+/* Opera 7 */
+    word-wrap: break-word;
+/* IE */
+}
+
+/*solid red, indentened*/
+.debugItem_conditionfailed {
+    border: 1px solid #73AD21;
+    background-color: red;
+    padding: 2px;
+    margin: 4px 4px 4px 16px;
+    white-space: pre-wrap;
+/* CSS3 */
+    white-space: -moz-pre-wrap;
+/* Firefox */
+    white-space: -pre-wrap;
+/* Opera <7 */
+    white-space: -o-pre-wrap;
+/* Opera 7 */
+    word-wrap: break-word;
+/* IE */
+}
+
+/*Indented*/
+.debugItem1 {
+    border: 1px solid #73AD21;
+    padding: 2px;
+    margin: 4px 4px 4px 16px;
+    white-space: pre-wrap;
+/* CSS3 */
+    white-space: -moz-pre-wrap;
+/* Firefox */
+    white-space: -pre-wrap;
+/* Opera <7 */
+    white-space: -o-pre-wrap;
+/* Opera 7 */
+    word-wrap: break-word;
+/* IE */
+}

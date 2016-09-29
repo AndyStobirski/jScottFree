@@ -1,0 +1,144 @@
+* * * * * * STRANGE ODYSSEY - ADVENTURE AFTER HINTS AND SOLUTIONS * * * * * *
+
+Read the questions until you get to where you are stuck.
+The numbers underneath refer to the dictionary listed at the end.
+Match each number with its associated word and you'll find an Adventure clue
+or solution!
+
+1 - HAVE NOT BEEN ABLE TO LEAVE THE SHIP?
+     EXAMINE THE CONSOLE
+2 - More help for above problem.
+     PUSH THE RED BUTTON
+3 - Solution to above problem.
+     PUSH RED THEN GO DOOR
+-----------------------------------
+4 - VACUUM A PROBLEM?
+     WEAR THE SPACESUIT
+5 - More help for above problem.
+     EXAMINE THE SPACESUIT
+6 - Solution to above problem.
+     TO SAVE AIR YOU CAN OPEN AND CLOSE THE SPACESUIT
+-----------------------------------
+7 - CAN NOT GET OFF THE SHIP?
+     IT IS A SIMPLE ACTION
+8 - More help for above problem.
+     GO FOR IT
+9 - Solution to above problem.
+     JUMP FROM OUTSIDE THE AIRLOCK ON THE LEDGE
+-----------------------------------
+10 - HAVE ONLY FOUND A BOULDER?
+      EXAMINE PHASER
+11 - More help for above problem.
+      SET PHASER TO DESTROY - USE TWO COMMANDS
+12 - Solution to above problem.
+      SET PHASER - TO DESTROY - SHOOT BOULDER
+-----------------------------------
+13 - CAN NOT DO ANYTHING MUCH IN HEXAGONAL ROOM?
+      EXAMINE PLASTIC AND TRY - HELP -
+14 - More help for above problem.
+      BE GENTLE - AFTER FEELING DISORIENTED LEAVE THE ROOM
+15 - Solution to above problem.
+      PULL ROD - PUSH ROD - TOUCH PLASTIC - GO CURTAIN
+-----------------------------------
+16 - CAN NOT GET ANYWHERE ELSE?
+      REPEAT
+17 - More help for above problem.
+      DO IT AGAIN THERE ARE 6 MAIN LOCATIONS SERVICED
+      BY THE GATEWAY
+18 - Solution to above problem.
+      PULL ROD - PUSH ROD - TOUCH PLASTIC
+-----------------------------------
+19 - AIR RUNS OUT ON YOU?
+      OPEN THE SUIT IF THE GAUGE SAYS THE AIR IS BREATHABLE
+20 - More help for above problem.
+      PLAY AROUND IN THE ALIEN SPACE SHIP
+21 - Solution to above problem.
+      CONNECT HOSE IN ALIEN SHIP - PUSH BLACK - PUSH WHITE
+-----------------------------------
+22 - CAN NOT MAKE ANYTHING OUT OF THE PICTURE?
+      WEAR GOGGLES
+23 - More help for above problem.
+      EXAMINE GOGGLES
+24 - Solution to above problem.
+      PUSH BUTTON ON GOGGLES - WEAR GOGGLES - EXAMINE PAINTING
+-----------------------------------
+25 - HIGH GRAVITY GETTING YOU DOWN?
+      GOGGLES AND PAINTING IS THE CLUE
+26 - More help for above problem.
+      EXAMINE SCULPTURE
+27 - Solution to above problem.
+      GET BELT FROM SCULPTURE - WEAR BELT - TWIST BUCKLE -
+-----------------------------------
+28 - CAN NOT GET HATCH OPEN?
+      HIGH GRAVITY WORLD HOLDS THE CLUE
+29 - More help for above problem.
+      PRY OPEN THE HATCH
+30 - Solution to above problem.
+      PRY OPEN THE HATCH WITH THE METAL FROM THE MINING COLONY
+-----------------------------------
+31 - NEED A POWER CRYSTAL?
+      EXAMINE THE BROKEN CRYSTAL
+32 - More help for above problem.
+      WHAT DO YOU REMEMBER IN THAT SHAPE
+33 - Solution to above problem.
+      BREAK OFF THE ROD IN THE HEXAGONAL ROOM AND USE IT
+-----------------------------------
+34 - CAN NOT RETURN TO PLANETOID AND SCOUT SHIP?
+      USING THE ROD YOU MUST RESET THE GATEWAY
+35 - More help for above problem.
+      PUSH PULL TOUCH - THIS SEQUENCE IS TOO LONG
+36 - Solution to above problem.
+      PULL ROD - TOUCH PLASTIC - PUSH ROD - TOUCH PLASTIC - GO
+      CURTAIN
+-----------------------------------
+37 - MISSING AN ICE DIAMOND?
+      ICE HOUND AND METHANE SNOW STORM THEN EXPLORE
+38 - More help for above problem.
+      DIG IN GRASSY PLAIN
+39 - Solution to above problem.
+      DROP HOUND IN METHANE SNOW STORM THEN EXPLORE WITH THE ICE PICK
+      AND PHASER
+-----------------------------------
+40 - DO NOT KNOW WHERE TO STORE YOUR TREASURES?
+      BLAST OFF IN YOUR SCOUT SHIP
+41 - More help for above problem.
+      EXAMINE CONSOLE
+42 - Solution to above problem.
+      PUSH BLUE BUTTON ON CONSOLE
+-----------------------------------
+
+------------------------------------------------------------------------------
+                            * DICTIONARY *
+ 1 GAUGE             34 LONG             67 DESTROY          100 THEN
+ 2 BUCKLE            35 WITH             68 GATEWAY          101 PAINTING
+ 3 PULL              36 REMEMBER         69 BELT             102 OPEN
+ 4 BLUE              37 PRY              70 SAYS             103 AND
+ 5 FOR               38 PLASTIC          71 DOOR             104 SPACESUIT
+ 6 AFTER             39 CLUE             72 WHITE            105 LEDGE
+ 7 A                 40 HEXAGONAL        73 PUSH             106 BE
+ 8 ICE               41 WEAR             74 JUMP             107 STORM
+ 9 GRAVITY           42 TRY              75 BLACK            108 SHOOT
+ 10 HATCH            43 MUST             76 ALIEN            109 YOU
+ 11 EXAMINE          44 GOGGLES          77 CAN              110 BLAST
+ 12 CRYSTAL          45 PICK             78 WORLD            111 LEAVE
+ 13 GO               46 TWO              79 SEQUENCE         112 THIS
+ 14 HIGH             47 YOUR             80 BOULDER          113 COMMANDS
+ 15 BREAK            48 COLONY           81 AIR              114 HELP
+ 16 RESET            49 AROUND           82 DISORIENTED      115 GRASSY
+ 17 IT               50 ROOM             83 METAL            116 TOO
+ 18 IF               51 SIMPLE           84 SET              117 CLOSE
+ 19 SCULPTURE        52 FEELING          85 USE              118 OFF
+ 20 ON               53 USING            86 REPEAT           119 DROP
+ 21 SHAPE            54 HOLDS            87 IS               120 TO
+ 22 BREATHABLE       55 PLAIN            88 GET              121 FROM
+ 23 WHAT             56 HOSE             89 EXPLORE          122 AGAIN
+ 24 -                57 SNOW             90 BROKEN           123 SERVICED
+ 25 TOUCH            58 GENTLE           91 CONSOLE          124 ARE
+ 26 CONNECT          59 PLAY             92 CURTAIN          125 6
+ 27 THE              60 RED              93 SAVE             126 THERE
+ 28 SCOUT            61 BUTTON           94 SHIP             127 MAIN
+ 29 DIG              62 PHASER           95 TWIST            128 BY
+ 30 THAT             63 IN               96 HOUND            129 LOCATIONS
+ 31 ACTION           64 AIRLOCK          97 OUTSIDE         
+ 32 SPACE            65 METHANE          98 DO              
+ 33 SUIT             66 ROD              99 MINING          

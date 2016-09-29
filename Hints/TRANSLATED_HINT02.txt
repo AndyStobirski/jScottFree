@@ -1,0 +1,185 @@
+* * * * * * PIRATE ADVENTURE - ADVENTURE BOOK HINTS AND SOLUTIONS * * * * * *
+
+Read the questions until you get to where you are stuck.
+The numbers underneath refer to the dictionary listed at the end.
+Match each number with its associated word and you'll find an Adventure clue
+or solution!
+
+1 - CAN NOT LEAVE THE ROOM?
+     GO UP THE STAIRS
+2 - More help for above problem.
+     TRY - HELP -
+3 - Solution to above problem.
+     CLIMB STAIRS
+-----------------------------------
+4 - HAVE NOT FOUND A BOOK?
+     TRY BOOKCASE
+5 - More help for above problem.
+     EXAMINE BOOKCASE
+6 - Solution to above problem.
+     GET BOOK FROM BOOKCASE
+-----------------------------------
+7 - HAVE NOT FOUND A BAG?
+     AFTER YOU GOT THE BOOK THE ROOM CHANGED
+8 - More help for above problem.
+     LOOK AROUND UPSTAIRS
+9 - Solution to above problem.
+     ENTER PASSAGE UPSTAIRS
+-----------------------------------
+10 - CAN NOT SEEM TO LEAVE THE FLAT AT ALL?
+      TRY - HELP - IN THE ALCOVE AND OUTSIDE THE WINDOW
+11 - More help for above problem.
+      READ THE BOOK
+12 - Solution to above problem.
+      TRY - SAY YOHO - WHILE HOLDING THE BOOK OUTSIDE THE WINDOW
+-----------------------------------
+13 - DO YOU KEEP FALLING OFF THE LEDGE?
+      YOU ARE SLIPPING OFF
+14 - More help for above problem.
+      YOUR FEET ARE SLIPPERY
+15 - Solution to above problem.
+      WEAR SNEAKERS
+-----------------------------------
+16 - CANNOT GET THE CHEST?
+      BRIBE THE PIRATE
+17 - More help for above problem.
+      TRY SOMETHING FROM THE FLAT
+18 - Solution to above problem.
+      GIVE PIRATE THE RUM
+-----------------------------------
+19 - HAVE NOT FOUND CRACK IN THE ROCK?
+      IT IS IN THE HILL
+20 - More help for above problem.
+      IT IS ON TOP OF THE HILL
+21 - Solution to above problem.
+      CLIMB HILL
+-----------------------------------
+22 - IS IT TOO DARK TO SEE?
+      REMEMBER THE BAG
+23 - More help for above problem.
+      EXAMINE THE BAG
+24 - Solution to above problem.
+      OPEN BAG AND LIGHT TORCH WITH THE MATCHES
+-----------------------------------
+25 - CAN NOT OPEN THE CHEST?
+      ENTER CRACK IN THE ROCK
+26 - More help for above problem.
+      GET SOMETHING FROM THE SHED AND RETURN TO LONDON
+27 - Solution to above problem.
+      REMOVE NAILS FROM RUG WITH HAMMER AND THEN GET THE RUG THEN
+      GET THE KEYS
+-----------------------------------
+28 - HAVE NOT FOUND CROCODILES?
+      HILL
+29 - More help for above problem.
+      READ HILL DESCRIPTION
+30 - Solution to above problem.
+      ENTER CAVE IN HILL AND EXPLORE
+-----------------------------------
+31 - CROCODILES A PROBLEM?
+      THEY ARE HUNGRY
+32 - More help for above problem.
+      LAGOON
+33 - Solution to above problem.
+      GO LAGOON - GO NORTH - GET FISH -
+-----------------------------------
+34 - DOES YOUR CROC FOOD ESCAPE YOU?
+      TOO DRY
+35 - More help for above problem.
+      FISH LIKE IT WET
+36 - Solution to above problem.
+      CARRY FISH WITH BOTTLE OF SEA WATER
+-----------------------------------
+37 - CAN NOT GET BEYOND PIRATE'S ISLAND?
+      LOOK IN THE CHEST
+38 - More help for above problem.
+      USE THE PLANS
+39 - Solution to above problem.
+      BUILD SHIP BY LAGOON AFTER READING THE PLANS
+-----------------------------------
+40 - NEED AN ANCHOR?
+      NEAR THE KEEL
+41 - More help for above problem.
+      LAGOON
+42 - Solution to above problem.
+      GO LAGOON - DIG ANCHOR -
+-----------------------------------
+43 - NEED A MAP?
+      PLANS
+44 - More help for above problem.
+      TWICE IS THE CHARM
+45 - Solution to above problem.
+      LOOK IN THE CHEST AGAIN
+-----------------------------------
+46 - CAN NOT GET PAST THE SNAKES?
+      USE THE MONGOOSE
+47 - More help for above problem.
+      SORRY ABOUT THAT I MEANT THE PIECES OF EIGHT CRITTER
+48 - Solution to above problem.
+      PARROT
+-----------------------------------
+49 - CAN NOT FIND THE SECOND TREASURE?
+      READ MAP
+50 - More help for above problem.
+      TRY - PACE 30 - THEN - DIG -
+51 - Solution to above problem.
+      GO TO THE FIELD THEN - PACE 30 - THEN - DIG
+      -
+-----------------------------------
+52 - PIRATE WILL NOT GET ABOARD?
+      DIG AROUND
+53 - More help for above problem.
+      DIG ON THE BEACH
+54 - Solution to above problem.
+      GIVE PIRATE RUM THEN WAKE HIM UP - HE WILL BE CLOSE BY
+-----------------------------------
+55 - MISSING A TREASURE?
+      OPEN THE BOX
+56 - More help for above problem.
+      USE THE RIGHT TOOL
+57 - Solution to above problem.
+      USE THE HAMMER
+-----------------------------------
+58 - CAN NOT END THE GAME?
+      TRY - SCORE -
+59 - More help for above problem.
+      LEAVE TREASURES IN RIGHT PLACE
+60 - Solution to above problem.
+      LEAVE TREASURES IN THE FLAT AND - SCORE -
+-----------------------------------
+
+------------------------------------------------------------------------------
+                            * DICTIONARY *
+ 1 READ              34 RIGHT            67 MONGOOSE         100 HUNGRY
+ 2 BOOK              35 BOTTLE           68 FEET             101 CAVE
+ 3 LONDON            36 OPEN             69 FLAT             102 BEACH
+ 4 FISH              37 THE              70 FIELD            103 BAG
+ 5 IT                38 NEAR             71 BOOKCASE         104 TOP
+ 6 ENTER             39 CHEST            72 LEAVE            105 SOMETHING
+ 7 REMEMBER          40 MATCHES          73 SEA              106 YOU
+ 8 DRY               41 YOUR             74 READING          107 CHANGED
+ 9 LOOK              42 GO               75 OFF              108 HOLDING
+ 10 BUILD            43 ANCHOR           76 ROCK             109 TOOL
+ 11 UP               44 BRIBE            77 LAGOON           110 THAT
+ 12 KEYS             45 PIECES           78 ARE              111 WATER
+ 13 DESCRIPTION      46 RUG              79 GET              112 AROUND
+ 14 STAIRS           47 EIGHT            80 NORTH            113 IN
+ 15 RETURN           48 -                81 CRITTER          114 CRACK
+ 16 HELP             49 ABOUT            82 CARRY            115 OF
+ 17 WILL             50 CLOSE            83 UPSTAIRS         116 YOHO
+ 18 I                51 TRY              84 PIRATE           117 SLIPPERY
+ 19 AND              52 HIM              85 ALCOVE           118 PLACE
+ 20 SORRY            53 BY               86 CLIMB            119 OUTSIDE
+ 21 IS               54 PASSAGE          87 THEN             120 HAMMER
+ 22 TREASURES        55 SCORE            88 SLIPPING         121 AFTER
+ 23 CHARM            56 WET              89 THEY             122 PLANS
+ 24 DIG              57 TWICE            90 AGAIN            123 LIKE
+ 25 GIVE             58 HE               91 RUM              124 EXPLORE
+ 26 WITH             59 SHIP             92 PARROT           125 TO
+ 27 GOT              60 NAILS            93 TORCH            126 BOX
+ 28 HILL             61 SNEAKERS         94 WHILE            127 ON
+ 29 USE              62 BE               95 SAY              128 REMOVE
+ 30 30               63 PACE             96 TOO              129 WEAR
+ 31 SHED             64 EXAMINE          97 FROM             130 KEEL
+ 32 LIGHT            65 WAKE             98 MEANT           
+ 33 MAP              66 ROOM             99 WINDOW          
