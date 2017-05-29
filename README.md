@@ -6,9 +6,9 @@ To find out more about **Scott Adams**, his incredible and his enormous influenc
 
 This code is released uner the MIT license - refer to the file LICENSE for more information.
 
-##Using this plugin
+## Using this plugin
 
-###Basic Syntax
+### Basic Syntax
 The basic syntax for invoking the jScottFree plugin is as follows. 
 
 ```javascript
@@ -17,7 +17,7 @@ $(User Interface Selector).jScottFree({ debug: true / false});
 
 Where debug: true, unsurprisingly, sets debug mode to true. See a demo [here](http://www.evilscience.co.uk/jScottFree/jScottFreeDebug.htm). By default, this value is false.
 
-###User Interface
+### User Interface
 This is a container element with 7 children and is used by the plugin to represent the game world, recieve player input and load / save game. These children are:
 
  + two textarea with an id of _worldView_ and *gameOutput*, 
@@ -27,19 +27,19 @@ This is a container element with 7 children and is used by the plugin to represe
 
 The file *jScottFree.htm* contains an example of a user interface.
 
-###Example
+### Example
 You can find a working example of this plugin [here](http://www.evilscience.co.uk/jScottFree/).
 
-##Depencies
+## Depencies
 jScottFree requires [Jquery 1.11.3 or later](http://jquery.com/).
 
-##In more detail
+## In more detail
 The plugin jQuery.jScottFree.js works in conjunction scottLoad.js. The latter loads an adventure game file (a text file with a .dat extension) and converts it to a JSON object and then passes to the former. The source code is commented and, I believe, self explanatory :)
 
 **jQuery.jScottFree.js**
 The function init() initialises the plugin, and game play starts when a user selects a game from the UI game menu and clicks the button **Load**. The load button fires the *LoadGame* event, which starts up the game. From then onwards, the game is driven by Enter Keyup events which are handled by the *EnterPressed* function.
 
-##Files included in this project
+## Files included in this project
 
  + Hints - Descrambled hint files for the adventure games
  + adv - Adventure games, in ScottFree format
